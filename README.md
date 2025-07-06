@@ -1,6 +1,6 @@
 # Soft-Tissue-Tumor-Detection-ML
 Automated tumor classification system using CNN and image processing
-# 🧠 Tumor Detection Web Application using CNN & Flask
+#  Tumor Detection Web Application using CNN & Flask
 
 A complete machine learning project that trains a Convolutional Neural Network (CNN) to detect soft tissue tumors as benign or malignant, and deploys it through a Flask-based web interface.
 
@@ -12,7 +12,7 @@ This project demonstrates the end-to-end pipeline of an AI system — from model
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 ### 🔹 Phase 1 – Model Training (`cnn.py`)
 - Preprocessed tumor images using OpenCV and resized them to 50×50 pixels.
@@ -29,7 +29,7 @@ This project demonstrates the end-to-end pipeline of an AI system — from model
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Python**  
 - **Flask** (Web Framework)  
@@ -41,5 +41,10 @@ This project demonstrates the end-to-end pipeline of an AI system — from model
 ---
 
 ## 📁 Project Structure
+## 📂 Model File Note
+
+Due to size limits, model files may not be uploaded here.  
+👉 Download the trained model from: [https://drive.google.com/file/d/1RPRFkfu8swTEjYu5UcLmpvr8Ze_4_Tnw/view?usp=sharing]
+
 
 
